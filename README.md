@@ -1,5 +1,5 @@
 # Important List
-Repository of Library and Framework
+Repository of Libraries and Frameworks
 
 ## Actix (https://actix.rs/)
 Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust
