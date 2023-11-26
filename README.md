@@ -45,6 +45,9 @@ Bulma is a free, open source framework that provides ready-to-use frontend compo
 ## NewCss
 new.css is a classless CSS framework to write modern websites using only HTML
 
+## Freefrontend (https://freefrontend.com/)
+A repository for easier front end developing
+
 ## HTMX (https://htmx.org/)
 htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
 
