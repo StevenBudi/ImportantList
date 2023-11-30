@@ -53,3 +53,6 @@ htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Event
 
 ## HTML5 Boilerplate
 HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package. 
+
+## RSSHub (https://docs.rsshub.app/)
+RSSHub is an open source, easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything.
